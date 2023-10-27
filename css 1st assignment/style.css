@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.h1{
+    background-color: #b700ff;
+}
+.tbl{
+    width: 500px;
+    height: 75px;
+    border-radius: 0.5%;
+    border-collapse: collapse;
+    border-width: 10px;
+}
+.tr1{
+    background-color: yellowgreen;
+}
+.tr2{
+    background-color: #ffff00;
+}
+.tr3{
+    background-color: rgb(0, 255, 255);
+}
+.tr4{
+    background-color: rgb(0, 255, 127);
+}
+.btn1{
+    background-color: red;
+}
+.btn2{
+    background-color: green;
+}
+.p{
+    background-color: aqua;
+}
+
+
